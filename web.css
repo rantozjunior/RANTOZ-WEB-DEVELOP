@@ -1,0 +1,36 @@
+body{
+background-image: url(https://www.egerton.ac.ke/images/speasyimagegallery/albums/1/images/egertonuniversity-logo.png);
+margin-top: auto;
+margin: 32px;
+background-size: 8pc;
+background-repeat: no-repeat;
+background-color: rgb(153, 123, 25);
+}
+
+form{
+    margin: 32px;
+    margin-top: 128px;
+
+}
+ 
+input{
+    background-color: white;
+    border-radius: 10%;
+}
+button{
+    background-color: aqua;
+    border: none;
+    margin-top: 8px;
+    margin-left: 32px;
+    background-size: 64px;
+}
+p{
+    background-color: rgb(240, 11, 11);
+    align-content: center;
+    
+}
+
+a{
+    color: rgb(4, 192, 4);
+     margin-top: 8px;
+}
