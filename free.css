@@ -8,4 +8,8 @@ video{
     border:32px;
     box-shadow: inset;
     background-color: rgb(111, 167, 8);
+
+}
+footer{
+    background-color: red;
 }
