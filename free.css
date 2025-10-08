@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(216, 169, 16);
+    
+}
+video{
+    padding: 32px;
+    border-radius: 32px;
+    border:32px;
+    box-shadow: inset;
+    background-color: rgb(111, 167, 8);
+}
